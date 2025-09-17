@@ -1,0 +1,59 @@
+2025-09-15 00:02:30,056 [INFO] multi_cam_qr_app - Camera 1 (usb) started
+2025-09-15 00:03:02,975 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:02][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,403 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,504 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,543 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,615 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,706 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,779 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,841 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,902 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:03,987 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:03][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,126 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,192 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,275 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,343 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,423 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,489 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,573 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,642 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,737 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,804 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,873 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:04,944 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:04][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:05,024 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:05][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:05,092 [INFO] multi_cam_qr_app - [QR][2025-09-15 00:03:05][usb:1] https://lin.ee/ckJaHbD
+2025-09-15 00:03:47,350 [INFO] multi_cam_qr_app - Camera 1 stopped
+2025-09-15 00:04:10,183 [INFO] multi_cam_qr_app - Camera 2 (usb) started
+2025-09-15 00:04:11,010 [ERROR] multi_cam_qr_app - Camera 2 connection failed
+2025-09-15 00:04:26,243 [INFO] multi_cam_qr_app - Camera 1 (usb) started
+2025-09-15 00:04:44,069 [INFO] multi_cam_qr_app - Camera 2 stopped
+2025-09-15 00:04:44,100 [INFO] multi_cam_qr_app - Camera 1 stopped
+2025-09-15 00:04:53,809 [INFO] multi_cam_qr_app - Camera 1 (usb) started
+2025-09-17 21:20:53,902 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:21:33,901 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 21:21:39,486 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:21:45,557 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 21:22:14,631 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:27:21,165 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 21:27:42,907 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:27:56,669 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 21:28:38,840 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:41:27,014 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:43:06,478 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:49:40,439 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:49:46,572 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 21:51:57,063 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 21:52:25,840 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 22:08:18,261 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:11:16,863 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:11:52,081 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 22:17:43,056 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:18:11,578 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 22:22:04,821 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:22:24,100 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 22:29:06,432 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:38:57,257 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:40:47,884 [INFO] multi_cam_qr_app - Camera 0 stopped
+2025-09-17 22:42:22,874 [INFO] multi_cam_qr_app - Camera 0 (usb) started
+2025-09-17 22:43:39,936 [INFO] multi_cam_qr_app - Camera 0 stopped
